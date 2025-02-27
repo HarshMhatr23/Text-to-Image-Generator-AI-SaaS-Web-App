@@ -2,4 +2,5 @@
 To install dependencies type--
 
 pip install npm
+&
 pip install npx 
